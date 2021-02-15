@@ -11,5 +11,14 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "dotenv": "^8.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricfilipe/discord-bot-sitepoint.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Ricfilipe/discord-bot-sitepoint/issues"
+  },
+  "homepage": "https://github.com/Ricfilipe/discord-bot-sitepoint#readme"
 }
